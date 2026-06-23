@@ -6,6 +6,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/ashuk-io/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -20,4 +21,8 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashuk-io/leetcode-grind/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
