@@ -7,6 +7,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ashuk-io/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/ashuk-io/leetcode-grind/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/ashuk-io/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/ashuk-io/leetcode-grind/tree/master/0075-sort-colors) |
@@ -34,6 +35,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashuk-io/leetcode-grind/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/ashuk-io/leetcode-grind/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ashuk-io/leetcode-grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0088-merge-sorted-array) |
@@ -47,4 +49,8 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | ------- |
 | [0075-sort-colors](https://github.com/ashuk-io/leetcode-grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0088-merge-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ashuk-io/leetcode-grind/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
