@@ -18,6 +18,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashuk-io/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/ashuk-io/leetcode-grind/tree/master/0238-product-of-array-except-self) |
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0033-search-in-rotated-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashuk-io/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
