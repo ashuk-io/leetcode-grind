@@ -16,6 +16,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashuk-io/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashuk-io/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/ashuk-io/leetcode-grind/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
@@ -30,6 +31,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashuk-io/leetcode-grind/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +41,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -64,6 +67,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | ------- |
 | [0075-sort-colors](https://github.com/ashuk-io/leetcode-grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 ## Greedy
 |  |
@@ -92,4 +96,8 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashuk-io/leetcode-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
