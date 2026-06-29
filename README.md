@@ -82,6 +82,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 ## Stack
 |  |
