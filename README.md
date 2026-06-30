@@ -43,6 +43,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0001-two-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0125-valid-palindrome](https://github.com/ashuk-io/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashuk-io/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | ------- |
 | [0125-valid-palindrome](https://github.com/ashuk-io/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashuk-io/leetcode-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
@@ -100,4 +103,8 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
