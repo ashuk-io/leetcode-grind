@@ -90,6 +90,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ashuk-io/leetcode-grind/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 ## Stack
 |  |
@@ -107,4 +108,8 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ashuk-io/leetcode-grind/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
