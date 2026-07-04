@@ -22,6 +22,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0540-single-element-in-a-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1572-matrix-diagonal-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -116,4 +117,8 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ashuk-io/leetcode-grind/tree/master/0050-powx-n) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
