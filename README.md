@@ -11,6 +11,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0031-next-permutation](https://github.com/ashuk-io/leetcode-grind/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ashuk-io/leetcode-grind/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ashuk-io/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ashuk-io/leetcode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashuk-io/leetcode-grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0088-merge-sorted-array) |
@@ -109,6 +110,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ashuk-io/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashuk-io/leetcode-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Counting
 |  |
@@ -125,6 +127,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ashuk-io/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ashuk-io/leetcode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashuk-io/leetcode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
