@@ -43,6 +43,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashuk-io/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashuk-io/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/ashuk-io/leetcode-grind/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0009-palindrome-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ashuk-io/leetcode-grind/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
+| [1025-divisor-game](https://github.com/ashuk-io/leetcode-grind/tree/master/1025-divisor-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -135,4 +137,12 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0240-search-a-2d-matrix-ii](https://github.com/ashuk-io/leetcode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ashuk-io/leetcode-grind/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/ashuk-io/leetcode-grind/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
