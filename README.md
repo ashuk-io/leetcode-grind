@@ -22,6 +22,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0238-product-of-array-except-self](https://github.com/ashuk-io/leetcode-grind/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashuk-io/leetcode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -32,6 +33,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | ------- |
 | [0136-single-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0125-valid-palindrome](https://github.com/ashuk-io/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashuk-io/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashuk-io/leetcode-grind/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
@@ -73,6 +76,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashuk-io/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashuk-io/leetcode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
