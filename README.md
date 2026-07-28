@@ -25,6 +25,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ashuk-io/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
@@ -53,6 +54,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0001-two-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/ashuk-io/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -98,6 +100,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashuk-io/leetcode-grind/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ashuk-io/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
