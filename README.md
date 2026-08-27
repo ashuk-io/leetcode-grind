@@ -1,6 +1,18 @@
 # leetcode-grind
 Tracking my algorithmic logic, problem-solving consistency, and DSA progression on LeetCode
 
+<!---LeetCode Stats Start-->
+## LeetCode Stats
+
+| Difficulty | Solved |
+| --- | ---: |
+| Easy | 15 |
+| Medium | 21 |
+| Hard | 0 |
+| Total | 36 |
+
+<!---LeetCode Stats End-->
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
