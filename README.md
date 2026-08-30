@@ -51,6 +51,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ashuk-io/leetcode-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -141,6 +142,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | ------- |
 | [0009-palindrome-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ashuk-io/leetcode-grind/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/ashuk-io/leetcode-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/ashuk-io/leetcode-grind/tree/master/1025-divisor-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
@@ -165,6 +167,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ashuk-io/leetcode-grind/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/ashuk-io/leetcode-grind/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
