@@ -45,6 +45,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashuk-io/leetcode-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
@@ -92,6 +93,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0344-reverse-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashuk-io/leetcode-grind/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashuk-io/leetcode-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0540-single-element-in-a-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashuk-io/leetcode-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +117,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashuk-io/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashuk-io/leetcode-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
