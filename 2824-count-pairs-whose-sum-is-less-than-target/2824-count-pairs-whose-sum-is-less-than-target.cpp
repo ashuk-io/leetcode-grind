@@ -3,11 +3,16 @@ public:
     int countPairs(vector<int>& nums, int target) {
         sort(nums.begin() , nums.end());
         int ans = 0;
-        for ( int i = 0 ; i < nums.size() ; i++)
-        {
-            for ( int j = i+1 ; j < nums.size() ; j++)
+        int start  = 0;
+        int end = nums.size() - 1;
+        while ( start < end ){
+            if ( nums[start] + nums[end] < target )
             {
-                if( nums[i] + nums[j] < target) ans++;
+                ans += end-start;
+                start ++;
+            }
+            else {
+                end --;
             }
         }
         return ans;
