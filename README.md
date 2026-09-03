@@ -47,6 +47,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [1572-matrix-diagonal-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashuk-io/leetcode-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ashuk-io/leetcode-grind/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/ashuk-io/leetcode-grind/tree/master/1025-divisor-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ashuk-io/leetcode-grind/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
