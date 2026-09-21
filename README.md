@@ -150,6 +150,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0231-power-of-two](https://github.com/ashuk-io/leetcode-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/ashuk-io/leetcode-grind/tree/master/1025-divisor-game) |
+| [1103-distribute-candies-to-people](https://github.com/ashuk-io/leetcode-grind/tree/master/1103-distribute-candies-to-people) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashuk-io/leetcode-grind/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
@@ -160,6 +161,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashuk-io/leetcode-grind/tree/master/0054-spiral-matrix) |
+| [1103-distribute-candies-to-people](https://github.com/ashuk-io/leetcode-grind/tree/master/1103-distribute-candies-to-people) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashuk-io/leetcode-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Counting
 |  |
