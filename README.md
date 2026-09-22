@@ -28,6 +28,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0031-next-permutation](https://github.com/ashuk-io/leetcode-grind/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/ashuk-io/leetcode-grind/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ashuk-io/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashuk-io/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ashuk-io/leetcode-grind/tree/master/0074-search-a-2d-matrix) |
@@ -105,6 +106,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/ashuk-io/leetcode-grind/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ashuk-io/leetcode-grind/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashuk-io/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
