@@ -39,6 +39,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashuk-io/leetcode-grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ashuk-io/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ashuk-io/leetcode-grind/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashuk-io/leetcode-grind/tree/master/0240-search-a-2d-matrix-ii) |
@@ -65,6 +66,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashuk-io/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ashuk-io/leetcode-grind/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -125,6 +127,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0075-sort-colors](https://github.com/ashuk-io/leetcode-grind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ashuk-io/leetcode-grind/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ashuk-io/leetcode-grind/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashuk-io/leetcode-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -202,4 +205,12 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashuk-io/leetcode-grind/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
