@@ -57,6 +57,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ashuk-io/leetcode-grind/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ashuk-io/leetcode-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
@@ -145,6 +146,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashuk-io/leetcode-grind/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/ashuk-io/leetcode-grind/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ashuk-io/leetcode-grind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0344-reverse-string) |
@@ -156,6 +158,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | ------- |
 | [0009-palindrome-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/ashuk-io/leetcode-grind/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/ashuk-io/leetcode-grind/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ashuk-io/leetcode-grind/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ashuk-io/leetcode-grind/tree/master/0268-missing-number) |
 | [1025-divisor-game](https://github.com/ashuk-io/leetcode-grind/tree/master/1025-divisor-game) |
@@ -170,6 +173,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashuk-io/leetcode-grind/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ashuk-io/leetcode-grind/tree/master/0067-add-binary) |
 | [1103-distribute-candies-to-people](https://github.com/ashuk-io/leetcode-grind/tree/master/1103-distribute-candies-to-people) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashuk-io/leetcode-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Counting
