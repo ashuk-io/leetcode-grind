@@ -55,6 +55,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashuk-io/leetcode-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashuk-io/leetcode-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ashuk-io/leetcode-grind/tree/master/3875-construct-uniform-parity-array-i) |
@@ -90,6 +91,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0560-subarray-sum-equals-k](https://github.com/ashuk-io/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashuk-io/leetcode-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -160,6 +162,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0344-reverse-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashuk-io/leetcode-grind/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashuk-io/leetcode-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashuk-io/leetcode-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
