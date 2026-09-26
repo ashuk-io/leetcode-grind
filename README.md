@@ -53,6 +53,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ashuk-io/leetcode-grind/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ashuk-io/leetcode-grind/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
@@ -88,6 +89,7 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashuk-io/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -224,4 +226,8 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0215-kth-largest-element-in-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
