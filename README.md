@@ -6,10 +6,10 @@ Tracking my algorithmic logic, problem-solving consistency, and DSA progression 
 
 | Difficulty | Solved |
 | --- | ---: |
-| Easy | 29 |
+| Easy | 30 |
 | Medium | 30 |
 | Hard | 1 |
-| Total | 60 |
+| Total | 61 |
 
 _Auto-synced from `stats.json` by GitHub Actions._
 <!---LeetCode Stats End-->
