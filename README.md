@@ -55,6 +55,7 @@ _Auto-synced from `stats.json` by GitHub Actions._
 | [0560-subarray-sum-equals-k](https://github.com/ashuk-io/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ashuk-io/leetcode-grind/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/ashuk-io/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1572-matrix-diagonal-sum](https://github.com/ashuk-io/leetcode-grind/tree/master/1572-matrix-diagonal-sum) |
@@ -82,6 +83,7 @@ _Auto-synced from `stats.json` by GitHub Actions._
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashuk-io/leetcode-grind/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashuk-io/leetcode-grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0746-min-cost-climbing-stairs](https://github.com/ashuk-io/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [1025-divisor-game](https://github.com/ashuk-io/leetcode-grind/tree/master/1025-divisor-game) |
 ## Hash Table
 |  |
