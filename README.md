@@ -53,6 +53,7 @@ _Auto-synced from `stats.json` by GitHub Actions._
 | [0485-max-consecutive-ones](https://github.com/ashuk-io/leetcode-grind/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashuk-io/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ashuk-io/leetcode-grind/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ashuk-io/leetcode-grind/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashuk-io/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
@@ -96,6 +97,7 @@ _Auto-synced from `stats.json` by GitHub Actions._
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashuk-io/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ashuk-io/leetcode-grind/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashuk-io/leetcode-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/ashuk-io/leetcode-grind/tree/master/2965-find-missing-and-repeated-values) |
@@ -168,6 +170,7 @@ _Auto-synced from `stats.json` by GitHub Actions._
 | [0344-reverse-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/ashuk-io/leetcode-grind/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ashuk-io/leetcode-grind/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/ashuk-io/leetcode-grind/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ashuk-io/leetcode-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashuk-io/leetcode-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
