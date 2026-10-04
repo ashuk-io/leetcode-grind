@@ -56,6 +56,7 @@ _Auto-synced from `stats.json` by GitHub Actions._
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashuk-io/leetcode-grind/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/ashuk-io/leetcode-grind/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/ashuk-io/leetcode-grind/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/ashuk-io/leetcode-grind/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashuk-io/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0852-peak-index-in-a-mountain-array) |
