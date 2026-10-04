@@ -54,6 +54,7 @@ _Auto-synced from `stats.json` by GitHub Actions._
 | [0540-single-element-in-a-sorted-array](https://github.com/ashuk-io/leetcode-grind/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ashuk-io/leetcode-grind/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/ashuk-io/leetcode-grind/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0682-baseball-game](https://github.com/ashuk-io/leetcode-grind/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ashuk-io/leetcode-grind/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ashuk-io/leetcode-grind/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/ashuk-io/leetcode-grind/tree/master/0746-min-cost-climbing-stairs) |
@@ -189,12 +190,14 @@ _Auto-synced from `stats.json` by GitHub Actions._
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ashuk-io/leetcode-grind/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashuk-io/leetcode-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashuk-io/leetcode-grind/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ashuk-io/leetcode-grind/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/ashuk-io/leetcode-grind/tree/master/0682-baseball-game) |
 | [1103-distribute-candies-to-people](https://github.com/ashuk-io/leetcode-grind/tree/master/1103-distribute-candies-to-people) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ashuk-io/leetcode-grind/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Counting
